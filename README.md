@@ -1,5 +1,4 @@
 # **Object Detection of Flowers using TensorFlow API**
------------------------------------------------------------
 
 ## Before Start need some pre-requists to be satisfied.
 
