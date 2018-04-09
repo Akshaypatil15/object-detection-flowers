@@ -1,1 +1,1 @@
-# flowers_detection
+# Object Detection of Flowers using TensorFlow API
