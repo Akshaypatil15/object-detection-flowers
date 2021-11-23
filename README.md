@@ -1,4 +1,7 @@
 # **Object Detection of Flowers using TensorFlow API**
+(Only tested on) Ubuntu 16.04 with:
+* Python 3.6
+* Tensorflow-gpu 1.12 (Should work with any version <=1.15)
 
 ## Before Start need some  prerequisites to be satisfied.
 
